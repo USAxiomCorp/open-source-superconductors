@@ -6,7 +6,7 @@
 **Contact:** Michael@advanceerivs.com  
 **Method:** R³ Russell Recursive Refinement — Composite State Dissolution  
 **Patent:** Derivative of US Patent Application 19/383,582  
-**License:** CC0 1.0 Universal — Public Domain — Free for All Humanity  
+**License:** CC0 1.0 Universal — Public Domain — Free for All Humanity. Licensed for Commerce 
 **Date:** March 2026  
 
 ---
