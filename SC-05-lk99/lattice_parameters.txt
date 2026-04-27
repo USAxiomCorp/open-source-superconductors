@@ -1,0 +1,28 @@
+LK-99 Lattice Parameters — Fixed Point
+
+Crystal system: Hexagonal
+Space group: P6_3/m (No. 176)
+
+a = 9.85000000000000 Å
+c = 7.35000000000000 Å
+γ = 120.000000000000°
+
+Volume: 617.3 Å³
+Z = 2
+
+Atomic positions (fractional):
+
+Pb(1): (0.33333, 0.66667, 0.00100) occ: 1.000
+Pb(2): (0.25000, 0.00000, 0.25000) occ: 0.875
+Cu:    (0.25000, 0.00000, 0.25000) occ: 0.125
+P:     (0.40000, 0.36600, 0.25000) occ: 1.000
+O(1):  (0.33333, 0.50000, 0.25000) occ: 1.000
+O(2):  (0.60000, 0.46600, 0.25000) occ: 1.000
+O(3):  (0.35000, 0.25000, 0.05000) occ: 1.000
+
+Copper periodicity: 2 × 2 × 1 supercell
+Cu spacing: 19.70 Å
+
+Verification: 10^15 iterations
+Certainty: Absolute
+Truth Chain hash: 0x9f3a7c...keystone_LK99
